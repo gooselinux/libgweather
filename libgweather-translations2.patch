@@ -1,0 +1,12 @@
+diff -urN a/libgweather-2.28.0/po-locations/kn.po b/libgweather-2.28.0/po-locations/kn.po
+--- a/libgweather-2.28.0/po-locations/kn.po	2010-07-27 13:43:54.258914597 +0530
++++ b/libgweather-2.28.0/po-locations/kn.po	2010-07-27 13:44:22.810031418 +0530
+@@ -52,7 +52,7 @@
+ 
+ #. AF - Afghanistan
+ msgid "Afghanistan"
+-msgstr "Sಅಫ್ಘಾನಿಸ್ತಾನ್"
++msgstr "ಅಫ್ಘಾನಿಸ್ತಾನ್"
+ 
+ #. AL - Albania
+ msgid "Albania"

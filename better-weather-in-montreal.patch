@@ -1,0 +1,12 @@
+diff -Nur -x '*.orig' -x '*~' libgweather-2.28.0/data/Locations.xml.in libgweather-2.28.0.new/data/Locations.xml.in
+--- libgweather-2.28.0/data/Locations.xml.in	2009-04-19 13:41:11.000000000 -0400
++++ libgweather-2.28.0.new/data/Locations.xml.in	2009-10-03 16:44:35.756942288 -0400
+@@ -25892,7 +25892,7 @@
+                The local name in French is "Montréal".
+             -->
+           <_name>Montreal</_name>
+-          <coordinates>45.500000 -73.583333</coordinates>
++          <coordinates>45.466667 -73.750000</coordinates>
+           <location>
+             <name>McTavish Automated Reporting Station</name>
+             <code>CWTA</code>
